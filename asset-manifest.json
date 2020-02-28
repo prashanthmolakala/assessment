@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/assessment/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/assessment/static/js/main.66c1e387.chunk.js",
+    "main.js.map": "/assessment/static/js/main.66c1e387.chunk.js.map",
+    "runtime-main.js": "/assessment/static/js/runtime-main.a825686c.js",
+    "runtime-main.js.map": "/assessment/static/js/runtime-main.a825686c.js.map",
+    "static/js/2.a48e6cec.chunk.js": "/assessment/static/js/2.a48e6cec.chunk.js",
+    "static/js/2.a48e6cec.chunk.js.map": "/assessment/static/js/2.a48e6cec.chunk.js.map",
+    "index.html": "/assessment/index.html",
+    "precache-manifest.5d788c8e4fc69347cc8721cd0ac92885.js": "/assessment/precache-manifest.5d788c8e4fc69347cc8721cd0ac92885.js",
+    "service-worker.js": "/assessment/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/assessment/static/css/main.5ecd60fb.chunk.css.map",
+    "static/media/egen_logo.png": "/assessment/static/media/egen_logo.8e3c062e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a825686c.js",
+    "static/js/2.a48e6cec.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.66c1e387.chunk.js"
+  ]
+}
