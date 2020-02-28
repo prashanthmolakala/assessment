@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/assessment/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/assessment/static/js/main.66c1e387.chunk.js",
-    "main.js.map": "/assessment/static/js/main.66c1e387.chunk.js.map",
-    "runtime-main.js": "/assessment/static/js/runtime-main.a825686c.js",
-    "runtime-main.js.map": "/assessment/static/js/runtime-main.a825686c.js.map",
-    "static/js/2.a48e6cec.chunk.js": "/assessment/static/js/2.a48e6cec.chunk.js",
-    "static/js/2.a48e6cec.chunk.js.map": "/assessment/static/js/2.a48e6cec.chunk.js.map",
-    "index.html": "/assessment/index.html",
-    "precache-manifest.5d788c8e4fc69347cc8721cd0ac92885.js": "/assessment/precache-manifest.5d788c8e4fc69347cc8721cd0ac92885.js",
-    "service-worker.js": "/assessment/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/assessment/static/css/main.5ecd60fb.chunk.css.map",
-    "static/media/egen_logo.png": "/assessment/static/media/egen_logo.8e3c062e.png"
+    "main.css": "/egen-assessments-certificate/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/egen-assessments-certificate/static/js/main.c5d9aa67.chunk.js",
+    "main.js.map": "/egen-assessments-certificate/static/js/main.c5d9aa67.chunk.js.map",
+    "runtime-main.js": "/egen-assessments-certificate/static/js/runtime-main.7e491239.js",
+    "runtime-main.js.map": "/egen-assessments-certificate/static/js/runtime-main.7e491239.js.map",
+    "static/js/2.ea486787.chunk.js": "/egen-assessments-certificate/static/js/2.ea486787.chunk.js",
+    "static/js/2.ea486787.chunk.js.map": "/egen-assessments-certificate/static/js/2.ea486787.chunk.js.map",
+    "index.html": "/egen-assessments-certificate/index.html",
+    "precache-manifest.51e44d80e09906127dee0d3bad67e229.js": "/egen-assessments-certificate/precache-manifest.51e44d80e09906127dee0d3bad67e229.js",
+    "service-worker.js": "/egen-assessments-certificate/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/egen-assessments-certificate/static/css/main.5ecd60fb.chunk.css.map",
+    "static/media/egen_logo.png": "/egen-assessments-certificate/static/media/egen_logo.8e3c062e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a825686c.js",
-    "static/js/2.a48e6cec.chunk.js",
+    "static/js/runtime-main.7e491239.js",
+    "static/js/2.ea486787.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.66c1e387.chunk.js"
+    "static/js/main.c5d9aa67.chunk.js"
   ]
 }
