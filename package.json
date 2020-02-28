@@ -2,7 +2,7 @@
   "name": "assessments-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prashanthmolakala.github.io/assessment",
+  "homepage": "https://prashanthmolakala.github.io/egen-assessments-certificate",
   "dependencies": {
     "@material-ui/core": "^4.6.1",
     "@material-ui/icons": "^4.5.1",
